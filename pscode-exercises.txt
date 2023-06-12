@@ -1,0 +1,37 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+// Print "Please enter value for x"
+// Print "Please enter value for y"
+// Sum = x + y
+// Print "The sum of x and y is " Sum
+
+// Exercise 2: Check if a Number is Even or Odd
+// Print "Please enter any whole number"
+// If number divided by 2 results in the remainder = 0, print "This is an even number."
+// Otherwise, print, "This is an odd number."
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+// Read a, b, c, d, e
+// avg = (a+b+c+d+e) / 5
+// Set max = 0
+// If a > max, set max = a. Proceed to next number.
+// If b > max, set max = b. Proceed to next number.
+// If c > max, set max = c. Proceed to next number.
+// If d > max, set max = d. Proceed to next number. 
+// If e > max, set max = e. 
+// Set min = a
+// If b < min, set min = b. Proceed to next number.
+// If c < min, set min = c. Proceed to next number.
+// If d < min, set min = d. Proceed to next number.
+// If e < min, set min = e.
+// Print "The average of the five numbers is" avg (the value of the variable avg)
+// Print "The largest of the five numbers is" max (the value of the variable max)
+// Print "The smallest of the five numbers is" min (the value of the variable min)
+
+-- END --
